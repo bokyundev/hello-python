@@ -1,2 +1,2 @@
 # hello-python
-python tutorial
+python tutorial!
